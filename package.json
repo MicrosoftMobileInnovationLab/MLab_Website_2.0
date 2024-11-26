@@ -43,7 +43,7 @@
 		"react-responsive-carousel": "^3.2.23",
 		"sass": "^1.69.0",
 		"sharp": "^0.33.3",
-		"webpack": "^4.44.1"
+		"webpack": "^5.92.0"
 	},
 	"devDependencies": {
 		"@types/node": "20.8.3",
